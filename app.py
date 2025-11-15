@@ -147,8 +147,9 @@ st.markdown("---")
 st.markdown("""
 <div class='footer'>
     <h3>Sinh viên thực hiện: ĐỖ TẤT CÔNG</h3>
-    <p>Đề tài thực tập kỹ sư • Khoa An toàn thông tin</p>
+    <p>Đề tài thực tập kỹ sư • Khoa công nghệ thông tin</p>
     <p>Trường Đại học Công nghệ Thông tin và Truyền thông - Đại học Thái Nguyên</p>
     <p>© 2025 - Hệ thống phát hiện gian lận giao dịch thông minh</p>
 </div>
+
 """, unsafe_allow_html=True)
